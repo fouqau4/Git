@@ -1,3 +1,4 @@
 # Git
-how to use git appropiately
+how to use git appropriately
+
 

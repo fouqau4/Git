@@ -1,6 +1,8 @@
 # Git
-how to use git appropriately
-
+how to use git appropriately<br>
+$ git config --global user.name "I-HSIEN HUANG"<br>
+$ git config --global user.email "isytkr34@gmail.com"<br>
+to make sure the record belongs to urs
 
 # Standard operating procedure
 1. git clone from the repository

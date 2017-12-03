@@ -15,6 +15,8 @@ add the file to items that will be submitted to remote side <br>
  make a commit about the submisiion <br>
 5. git push <br>
 input username and password <br>
+6. $git pull <br>
+If u changed online, u should pull the remote version to the local side
 
 ## another notes for several files
 + $git add . <br>

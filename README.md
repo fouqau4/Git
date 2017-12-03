@@ -5,15 +5,15 @@ $ git config --global user.email "isytkr34@gmail.com"<br>
 to make sure the record belongs to urs
 
 # Standard operating procedure
-1. git clone "from the repository" <br>
+1. $git clone "from the repository" <br>
 After make changed on your computer <br>
-2. git status <br>
+2. $git status <br>
  to check which file is changed <br>
-3. git add "filename" <br>
+3. $git add "filename" <br>
 add the file to items that will be submitted to remote side <br>
-4. git commit "filename" <br>
+4. $git commit "filename" <br>
  make a commit about the submisiion <br>
-5. git push <br>
+5. $git push <br>
 input username and password <br>
 6. $git pull <br>
 If u changed online, u should pull the remote version to the local side
